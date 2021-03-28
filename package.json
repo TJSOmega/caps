@@ -1,0 +1,23 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node caps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJSOmega/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJSOmega/caps/issues"
+  },
+  "homepage": "https://github.com/TJSOmega/caps#readme"
+}
